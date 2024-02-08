@@ -1,4 +1,4 @@
-module github.com/thiamsantos/favicon-generator
+module github.com/cgroschupp/favicon-generator
 
 go 1.21
 
